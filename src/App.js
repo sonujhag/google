@@ -7,7 +7,7 @@ import {BrowserRouter as Router,Switch ,Route } from 'react-router-dom';
   
   
 function App() {
-  
+ /* tis ti changes form sonu side */  
   return (
     <div className="app">
       <Router>
